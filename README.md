@@ -4,9 +4,9 @@
  <h4 align="center">Co-founder : <a href="https://fugipie.com/">Fugipie Solutions LLP</a></h4>
 </div>
 
-![counter](https://enb9oou2al2wd18.m.pipedream.net)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibe&hide=css,html&layout=compact&theme=dark)](https://github.com/aquibe/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibe&hide=css,html&layout=compact&theme=gotham)](https://github.com/aquibe/github-readme-stats)
 
 
 
