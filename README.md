@@ -1,8 +1,14 @@
 
-### Hi I'm Aquibe   
+<h1><center>AQUIBE</center></h1>
+
 ![counter](https://enb9oou2al2wd18.m.pipedream.net)
 
 ![Aquibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibe&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibe&hide=css,html&layout=compact&theme=dark)](https://github.com/aquibe/github-readme-stats)
+
+
+
 
 
 
