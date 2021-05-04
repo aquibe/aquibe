@@ -1,13 +1,10 @@
 <div align="center">
  <br/>
- <h1 align="center">I'm Aquibe V</h1>
- 
+ <h1 align="center">I'm Aquibe V</h1> 
  <h4 align="center">Co-founder : <a href="https://fugipie.com/">Fugipie Solutions LLP</a></h4>
 </div>
 
-(https://enb9oou2al2wd18.m.pipedream.net)
-
-![Aquibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibe&show_icons=true&theme=dark)
+![counter](https://enb9oou2al2wd18.m.pipedream.net)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibe&hide=css,html&layout=compact&theme=dark)](https://github.com/aquibe/github-readme-stats)
 
