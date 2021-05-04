@@ -1,5 +1,8 @@
-
-<h1><center>AQUIBE</center></h1>
+<p align="center">
+ <img width="100px" src="" align="center" alt="Aquibe-img" />
+ <h2 align="center">I'm Aquibe</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
 
 ![counter](https://enb9oou2al2wd18.m.pipedream.net)
 
