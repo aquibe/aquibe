@@ -2,7 +2,7 @@
 ### Hi I'm Aquibe   
 ![counter](https://enb9oou2al2wd18.m.pipedream.net)
 
-![Aquibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibe&show_icons=true&theme=tokyonigh)
+![Aquibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibe&show_icons=true&theme=dark)
 
 
 
