@@ -1,7 +1,8 @@
 <p align="center">
- <img width="100px" src="" align="center" alt="Aquibe-img" />
- <h2 align="center">I'm Aquibe</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <br/>
+ <h1 align="center">I'm Aquibe V</h1>
+ ![counter](https://enb9oou2al2wd18.m.pipedream.net)
+ <h4 align="center">Co-founder : <a href="https://fugipie.com/">Fugipie Solutions LLP</a></h4>
 </p>
 
 ![counter](https://enb9oou2al2wd18.m.pipedream.net)
