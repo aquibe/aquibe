@@ -1,7 +1,7 @@
 
  <br/>
  <h1 align="center">I'm Aquibe V</h1> 
- <h4 align="center">Co-founder : <a href="https://fugipie.com">Fugipie Solutions LLP</a></h4>
+ <h4 align="center">Co-founder : <a href="https://fugipie.com">Fugipie Technoligies</a></h4>
 
 
 
